@@ -1,6 +1,8 @@
 # GitHub to GitLab Auto Update
 #### Author: Bocaletto Luca
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu)](LICENSE) [![Language: Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/) [![Linux-Compatible](https://img.shields.io/badge/Linux-Compatible-blue?style=for-the-badge&logo=linux)](https://www.kernel.org/) [![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)](https://github.com/bocaletto-luca/Directory-Monitor)
+
 **GitHub to GitLab Auto Update** is a Python-based tool designed to automate the configuration of repository mirroring between your GitHub and GitLab accounts. With this tool, you can automatically import new repositories from GitHub and update existing ones on GitLab, ensuring that the two platforms remain synchronized.
 
 ## Table of Contents
