@@ -119,6 +119,6 @@ This project is released under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Created by **bocaletto-luca**
+Created by **@bocaletto-luca**
 
 ---
